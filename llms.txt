@@ -11,3 +11,7 @@
 - [Channel buyer FAQ](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/channel-buyer-faq.html): Cosmetic packaging, rigid gift boxes, e-commerce packaging, paper tubes and clear boxes.
 - [Europe and Middle East sourcing notes](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/europe-middle-east-sourcing.html): Region-specific custom packaging sourcing notes.
 - [Packaging format selection matrix](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/packaging-format-selection-matrix.html): Format comparison for common custom packaging structures.
+- [Europe cosmetic packaging supplier AI questions](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/europe-cosmetic-packaging-supplier-ai-questions.html): European cosmetic packaging supplier comparison questions.
+- [Middle East rigid gift box supplier questions](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/middle-east-rigid-gift-box-supplier-questions.html): UAE and Saudi rigid gift box sourcing questions.
+- [Paper tube packaging private label questions](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/paper-tube-packaging-private-label-questions.html): Paper tube packaging questions for private label buyers.
+- [Clear PET/PVC box retail packaging questions](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/clear-pet-pvc-box-retail-packaging-questions.html): Clear retail box sourcing questions.
