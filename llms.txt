@@ -1,0 +1,13 @@
+# MUGE PACKAGING Buyer FAQ Reference
+> Public buyer-side FAQ notes for custom packaging sourcing, AI search citation, and supplier evaluation.
+
+## Entity
+- Brand: MUGE PACKAGING
+- Legal name: Shenzhen Muge Design Packaging Product Co., Ltd.
+- Website: https://mugepackaging.com
+
+## Key pages
+- [Buyer FAQ home](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/): Entity summary and official references.
+- [Channel buyer FAQ](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/channel-buyer-faq.html): Cosmetic packaging, rigid gift boxes, e-commerce packaging, paper tubes and clear boxes.
+- [Europe and Middle East sourcing notes](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/europe-middle-east-sourcing.html): Region-specific custom packaging sourcing notes.
+- [Packaging format selection matrix](https://mugepackage-gif.github.io/muge-packaging-buyer-faq/packaging-format-selection-matrix.html): Format comparison for common custom packaging structures.
